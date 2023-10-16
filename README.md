@@ -1,5 +1,5 @@
 # ALU Headphones
-* This web page was coded from scratch based on some design models given on [Figma] (https://www.figma.com/file/TwFqqWGYvNYvxZxhdWXv4H/Holberton-School---Headphone-company?type=design&node-id=0%3A1&mode=design&t=HUmtrqpJPRNBsq2J-1)
+* This web page was coded from scratch based on some design models given on [Figma](https://www.figma.com/file/TwFqqWGYvNYvxZxhdWXv4H/Holberton-School---Headphone-company?type=design&node-id=0%3A1&mode=design&t=HUmtrqpJPRNBsq2J-1)
 
 * The designs were planned for Desktop, Tablet, and Mobile, so the web page was implemented with responsiveness to different device sizes.
 
